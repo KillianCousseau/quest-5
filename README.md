@@ -1,5 +1,6 @@
 # quest-5
-REMOTE
+
+LOCAL
 0
 1
 2
